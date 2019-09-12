@@ -14,7 +14,7 @@
             <FormItem>
                 <Button type="primary" @click="handleSubmit('formInline')">Signin</Button>
             </FormItem>
-        </Form>
+        </Form> 
         <p>{{ptext}}</p>
     </div>
 </template>
